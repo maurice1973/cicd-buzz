@@ -5,4 +5,4 @@ script:
 # whitelist
 branches:
   only:
-    - test
+    - pytest
